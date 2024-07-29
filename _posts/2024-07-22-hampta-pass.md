@@ -55,7 +55,7 @@ We met some foreign trekkers and joined hands with them to push to the next site
 ![img](https://i.imgur.com/ykGWKLr.jpeg)
 _upper balu ka ghera_
 
-Two of us were totally tired, so only me and one of my friends made a small scouting trek to see what was the plan for the next day. Other groupd were also scouting and doing acclamatization routines. We made strong back coffee and popcorn and enjoyed the beautiful stay, and went to sleep after cooking a dinner of oats.
+Two of us were completely exhausted, so only one friend and I went on a brief scouting trek to plan for the next day. Other groups were also scouting and doing acclimatization routines. We made strong black coffee and popcorn, enjoyed the beautiful surroundings, and went to sleep after cooking a dinner of oatmeal.
 
 ### the push
 
