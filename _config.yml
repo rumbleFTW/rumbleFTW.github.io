@@ -16,7 +16,7 @@ timezone: Asia/Calcutta
 
 title: Rajdeep # the main title
 
-tagline: ML engineer # it will display as the sub-title
+# tagline: ML engineer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Tech, Adventure and my life.
