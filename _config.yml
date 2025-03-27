@@ -40,6 +40,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/rumbleFTW # change to your twitter homepage
     - https://github.com/rumbleFTW # change to your github homepage
+    - https://instagram.com/rumbleftwww
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/rumbleftw
@@ -96,7 +97,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1815153608683626496/fOkZM6r0_400x400.jpg
+avatar: https://pbs.twimg.com/profile_images/1905339373199261698/PcZ4m9_a_400x400.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
